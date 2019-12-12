@@ -1,0 +1,9 @@
+{
+  "name": "fix-ec2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.588.0"
+  }
+}
